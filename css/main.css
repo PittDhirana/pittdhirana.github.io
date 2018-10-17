@@ -253,7 +253,7 @@ header.navbar .nav>li>a {
 header.navbar .nav>li>a:hover {
     background: transparent;
     color: #FFBD3A;
-    border-bottom: 5px solid #013A2A;
+    border-bottom: 5px solid #360068;
     -webkit-box-shadow: none;
     -moz-box-shadow: none;
     box-shadow: none
@@ -802,7 +802,7 @@ ul.faq li>div h3 {
     font-family: 'Lato';
     line-height: 1.7em;
     font-weight: normal;
-    color: #013A2A;
+    color: #360068;
 }
 .addmargin {
     left: 20px;
